@@ -3,9 +3,9 @@
 Часть алгоритмов была позаимствована с форума Owen.
 Огромная благодарность 
 
-[Юрию Ревака]: https://www.youtube.com/channel/UCj4HeZMvSH5H3d_t6iDlQOQ/featured
+[]: https://www.youtube.com/channel/UCj4HeZMvSH5H3d_t6iDlQOQ/featured	"Юрию ревака"
 
-, за весомый вклад в большое дело.
+
 
 [1 дата и время]: 
 [2 инструменты]: 
