@@ -3,7 +3,7 @@
 Часть алгоритмов была позаимствована с форума Owen.
 Огромная благодарность Юрию Ревака за вклад в развитие.
 
-[Юрий Ревака YouTube]: https://www.youtube.com/channel/UCj4HeZMvSH5H3d_t6iDlQOQ/featured
+[Юрий Ревака YouTube]: https://www.youtube.com/channel/UCj4HeZMvSH5H3d_t6iDlQOQ/featured	"полотенце"
 
 [1 дата и время]: 
 [2 инструменты]: 
