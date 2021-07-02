@@ -1,11 +1,9 @@
 # Набор макросов Owen Logic.
 
 Часть алгоритмов была позаимствована с форума Owen.
-Огромная благодарность 
+Огромная благодарность Юрию Ревака за вклад в развитие.
 
-[]: https://www.youtube.com/channel/UCj4HeZMvSH5H3d_t6iDlQOQ/featured	"Юрию ревака"
-
-
+[Юрий Ревака YouTube]: https://www.youtube.com/channel/UCj4HeZMvSH5H3d_t6iDlQOQ/featured
 
 [1 дата и время]: 
 [2 инструменты]: 
